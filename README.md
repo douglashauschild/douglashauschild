@@ -37,4 +37,4 @@ Currently, I focus on:
 
 ## 📫 Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/-Douglas%20Hauschild-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-hauschild/)
+[![LinkedIn](https://img.shields.io/badge/-Douglas%20Hauschild-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-hauschild-66449122b/)
